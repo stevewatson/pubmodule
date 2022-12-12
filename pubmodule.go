@@ -1,5 +1,5 @@
 package pubmodule
 
 func Hello() string {
-	return "Hello, you!"
+	return "Hello, you again!"
 }
